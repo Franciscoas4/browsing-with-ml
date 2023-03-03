@@ -42,3 +42,6 @@ Marque esse projeto com uma estrela 🌟
 
 ### Créditos ao Layout
 - Interface baseada no projeto [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) de [gunnarhawk](https://github.com/Gunnarhawk)
+
+### Links mostrados nos aulas:
+- Reuni todos os links em [referências](./referencias.md)
